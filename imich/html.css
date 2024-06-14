@@ -1,0 +1,218 @@
+body,h1,h2,h3,ul,p{
+    margin: 0;
+    padding: 0;
+}
+.salom{
+    background-color: rgb(204, 64, 146);
+     border: 3px solid rgb(26, 10, 10);
+}
+.salom h1{
+    color: rgba(7, 10, 221, 0.897);
+    font-family: sans-serif;
+    padding: 15px 0;
+    display: inline-block;
+    
+}
+.mmm{
+    color: rgb(0, 0, 0);
+}
+
+.cantinetir{
+    width: 70%;
+    margin: auto;
+}
+.nnn{
+    float: right;
+}
+.nnn li{
+    display: inline;
+}
+.nnn li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    padding: 25px 15px;
+    display: inline-block;
+
+
+}
+
+.salom  a:hover{
+    color: rgb(92, 7, 230);
+}
+
+.cantinetir{
+    width: 70%;
+    margin: auto;
+
+}
+
+.xasan{
+    height: 60vh;
+    background-image: url(photo_2024-06-07_10-24-33.jpg);
+    background-size: cover;
+    background-position: center -200px;
+    text-align: center;
+    color: rgb(34, 26, 0);
+    font-family: sans-serif;
+    
+
+}
+
+
+.xasan{
+    font-size: 19px;
+    margin-bottom: 1px;
+    padding-top: 19px;
+
+}
+
+
+ #kitob{
+    background-color: rgb(177, 33, 112);
+    color: black;
+    font-family: sans-serif;
+    padding: 20px 0px;
+ display: inline block;
+ width: 100%;
+
+
+ }
+
+#kitob .left{
+float: left;
+}
+
+.rigiht{
+    text-align: center;
+    margin-left: 20px;
+}
+
+
+ #kitob.right{
+float: right;
+ }
+  #kitob input{
+    padding: 5px;
+  }
+
+  .button{
+    padding: 7px 15px;
+    border: none;
+    background-color:coral;
+    color: #000;
+    margin-left: 8px;
+
+
+  }
+
+
+
+
+
+   #LLL{
+    padding: 30px 0;
+   }
+
+    .box{
+        width: 33.3%;
+        float: left;
+        text-align: center;
+        font-family: sans-serif;
+    }
+
+
+
+    .box img{
+        max-width: 100%;
+        width: 150px;
+
+    }
+    .clr{
+        clear: both;
+    }
+        #BBB{
+            padding: 40px 0;
+            text-align: center;
+            background-color: coral;
+            color: aliceblue;
+            margin-top: 30px
+
+        }
+  
+
+
+.main-content{
+    width: 50%;
+    float: left;
+}
+    
+
+
+.www{
+    width: 40%;
+    margin-left: auto;
+    
+}
+
+ #About-us{
+    font-family: sans-serif;
+    margin: 30px;
+ }
+  
+
+
+ .ppp{
+    background-color: #030303;
+    color: #ececec;
+    padding: 15px;
+ }
+
+ .cantinetir{
+    width: 70px;
+    margin-top: auto;
+ }
+
+
+ .bot{
+    padding: 30px;
+      margin: 15px 0;
+
+
+ }
+  .bot{
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #867777;
+    color: rgb(0, 0, 0);
+    margin-top:  15px 10;
+    
+  }
+label{
+    display: block;
+    margin: 10px 0;
+}
+ 
+  
+input textarea{
+    width: 100%;
+    padding: 10px 6px;
+}
+
+.bll{
+    border: 3px solid rgb(0, 0, 0);
+    background-color: #000000;
+    color: #ececec;
+    margin: 20px;
+}
+
+
+ .active{
+    color: coral !important
+ }
+
+
+
+ .fon{
+   background-color: red;
+ }
+   
